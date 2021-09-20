@@ -8,4 +8,4 @@ Pandu merupakan aplikasi pembantu dalam proses jalannya pemerintahan berbasis el
 Tujuan utama dari menggunakan web sebagai _platform_ utama aplikasi ini adalah fleksibilitas akses dari perangkat manapun serta kemudahan yang ditawarkan karena tidak perlunya mengunduh suatu aplikasi untuk memberikan laporan dan aduan kepada perangkat daerah yang bertugas.
 
 ### Latar Belakang Pembuatan Aplikasi
-Latar belakang pembuatan aplikasi dapat dilihat pada (pranala ini)[https://mega.nz/file/KE8AjDZD#y3sZnzx6rswT_L3a_9xMMvQxEi0NlIVa7GpYvpV7G98]
+Latar belakang pembuatan aplikasi dapat dilihat pada [pranala ini](https://mega.nz/file/KE8AjDZD#y3sZnzx6rswT_L3a_9xMMvQxEi0NlIVa7GpYvpV7G98)
